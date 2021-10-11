@@ -6,7 +6,9 @@ import FormStep3 from "./pages/FormStep3";
 
 const Router = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter
+      basename='/multiform'
+    >
       <Route path='/' exact component={FormStep1} />
       <Route path='/step2' component={FormStep2} />
       <Route path='/step3' component={FormStep3} />
