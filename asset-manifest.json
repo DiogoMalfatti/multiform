@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/multiform/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/multiform/static/js/main.b5302630.chunk.js",
+    "main.js.map": "/multiform/static/js/main.b5302630.chunk.js.map",
+    "runtime-main.js": "/multiform/static/js/runtime-main.2f3895b2.js",
+    "runtime-main.js.map": "/multiform/static/js/runtime-main.2f3895b2.js.map",
+    "static/js/2.d27d198d.chunk.js": "/multiform/static/js/2.d27d198d.chunk.js",
+    "static/js/2.d27d198d.chunk.js.map": "/multiform/static/js/2.d27d198d.chunk.js.map",
+    "static/js/3.37a07a53.chunk.js": "/multiform/static/js/3.37a07a53.chunk.js",
+    "static/js/3.37a07a53.chunk.js.map": "/multiform/static/js/3.37a07a53.chunk.js.map",
+    "index.html": "/multiform/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/multiform/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d27d198d.chunk.js.LICENSE.txt": "/multiform/static/js/2.d27d198d.chunk.js.LICENSE.txt",
+    "static/media/book.42eae963.svg": "/multiform/static/media/book.42eae963.svg",
+    "static/media/mail.42fe45d2.svg": "/multiform/static/media/mail.42fe45d2.svg",
+    "static/media/profile.813d4fd3.svg": "/multiform/static/media/profile.813d4fd3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f3895b2.js",
+    "static/js/2.d27d198d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b5302630.chunk.js"
+  ]
+}
