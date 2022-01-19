@@ -23,36 +23,6 @@
 <br />
 
 <h3>
-  <a href="https://diogomalfatti.github.io/todo-list/"> 🌎 https://diogomalfatti.github.io/todo-list/</a>
-</h3>
-<img  src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/todoList1280.png" />
-<h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=todo-list)](https://github.com/DiogoMalfatti/todo-list)
-
-<a href="https://diogomalfatti.github.io/expense-tracker/"> 🌎 https://diogomalfatti.github.io/expense-tracker/</a>
-
-</h3>
-<img  src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/expenseTracker1280.png" />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=expense-tracker)](https://github.com/DiogoMalfatti/expense-tracker)
-
-<h3>
-  <a href="https://diogomalfatti.github.io/gallery/"> 🌎 https://diogomalfatti.github.io/gallery/</a>
-</h3>
-<img  src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/galley1280.png" />
-<h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=gallery)](https://github.com/DiogoMalfatti/gallery)
-
-<a href="https://diogomalfatti.github.io/rpg-react/"> 🌎 https://diogomalfatti.github.io/rpg-react/</a>
-
-</h3>
-<img  src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/rpgReact1280.png" />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=rpg-react)](https://github.com/DiogoMalfatti/rpg-react)
-
-<h3>
 <a href="https://diogomalfatti.github.io/multiform/"> 🌎 https://diogomalfatti.github.io/multiform/</a>
 </h3>
 <img  src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/multiform1280.png" />
