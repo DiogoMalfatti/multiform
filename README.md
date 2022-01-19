@@ -27,5 +27,4 @@
 </h3>
 <img  src="https://raw.githubusercontent.com/DiogoMalfatti/DiogoMalfatti/main/imagens/multiform1280.png" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diogomalfatti&repo=multiform)](https://github.com/DiogoMalfatti/multiform)
 
